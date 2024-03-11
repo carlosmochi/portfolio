@@ -1,0 +1,60 @@
+.project_main_div{
+    background-color: green;
+    width: 100%;
+    height: 85vh;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+.project_selection{
+    display: flex;
+    background-color: rgb(42, 42, 42);
+    flex-direction: row;
+    color: white;
+}
+.project_selection ul{
+    width: 100%;
+    padding: 0;
+    margin-top: 0;
+}
+.project_selection ul li{
+    display: flex;
+    height: 50px;
+    list-style: none;
+    align-items: center;
+}
+.project_button{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(42, 42, 42);
+    border-style: none;
+    font-size: 14px;
+    text-align: left;
+}
+.selected{
+    background-color: rgb(142,142,142);
+}
+
+.project_description{
+    background-color: whitesmoke;
+}
+.description_img{
+    display: flex;
+    height: 40%;
+}
+.description_img img{
+    width: 50%;
+    height: 90%;
+    align-self: center;
+    margin: 0 auto;
+}
+.description_text{
+    height: 60%;
+    display: flex;
+}
+.description_text a{
+    text-align: justify;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}

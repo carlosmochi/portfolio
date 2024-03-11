@@ -1,10 +1,24 @@
 <template>
+  <Header/>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">Projetos</router-link> |
+    <router-link to="/about">Sobre mim</router-link>
   </nav>
   <router-view/>
 </template>
+
+<script lang="ts">
+  import { defineComponent } from 'vue';
+  import Header from '@/components/Header.vue';
+  // import HelloWorld from '@/components/HelloWorld.vue'; // @ is an alias to /src
+
+  export default defineComponent({
+    name: 'HomeView',
+    components: {
+      Header,
+    },
+  });
+</script>
 
 <style>
 #app {
@@ -16,7 +30,7 @@
 }
 
 nav {
-  padding: 30px;
+  padding: 20px;
 }
 
 nav a {
