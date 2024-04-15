@@ -5,6 +5,7 @@
         v-on:select-project="displayProject"/>
         <ProjectDescription 
             :projectDescription = selectedProject.textDescription
+            :projectLink = selectedProject.link
             :projectImage = selectedProject.imagePreview />
     </div>
 </template>

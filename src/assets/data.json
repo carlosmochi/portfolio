@@ -3,18 +3,21 @@
      "projectTitle": "Lorem ipsum dolor sit amet",
      "textDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ipsum vitae neque imperdiet, vel sollicitudin lectus dictum. In elit nunc, semper eget mollis non, egestas quis nulla. Cras luctus quis lectus in ultrices. Nullam dapibus erat ut dui mollis, vitae varius enim sodales. Aenean sagittis velit ipsum, non bibendum justo dictum ut. Sed tincidunt tempus ultricies. Donec a auctor nisl. Nunc egestas dignissim dolor, in maximus nisi. Ut at urna eget nisl accumsan porta non sed lorem. Mauris aliquam molestie ultrices. Ut id nisi eu dolor dignissim molestie.",
      "imagePreview" : "https://ceblog.s3.amazonaws.com/wp-content/uploads/2021/03/10114044/image2-8.png",
-     "isSelected": true
+     "isSelected": true,
+     "link": "https://www.google.com"
    },
    {
      "projectTitle": "Consectetur adipiscing elit",
      "textDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ipsum vitae neque imperdiet, vel sollicitudin lectus dictum. In elit nunc, semper eget mollis non, egestas quis nulla. Cras luctus quis lectus in ultrices. Nullam dapibus erat ut dui mollis, vitae varius enim sodales. Aenean sagittis velit ipsum, non bibendum justo dictum ut. Sed tincidunt tempus ultricies. Donec a auctor nisl. Nunc egestas dignissim dolor, in maximus nisi. Ut at urna eget nisl accumsan porta non sed lorem. Mauris aliquam molestie ultrices. Ut id nisi eu dolor dignissim molestie.",
      "imagePreview" : "https://marketplace.canva.com/EAE6WTyrSQ0/2/0/1600w/canva-light-beige-sleek-and-simple-blogger-personal-website--7Q4-7tyJj4.jpg",
-     "isSelected": false
+     "isSelected": false,
+     "link": "https://www.github.com"
    },
    {
      "projectTitle": "Duis eleifend ipsum vitae neque imperdiet",
      "textDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ipsum vitae neque imperdiet, vel sollicitudin lectus dictum. In elit nunc, semper eget mollis non, egestas quis nulla. Cras luctus quis lectus in ultrices. Nullam dapibus erat ut dui mollis, vitae varius enim sodales. Aenean sagittis velit ipsum, non bibendum justo dictum ut. Sed tincidunt tempus ultricies. Donec a auctor nisl. Nunc egestas dignissim dolor, in maximus nisi. Ut at urna eget nisl accumsan porta non sed lorem. Mauris aliquam molestie ultrices. Ut id nisi eu dolor dignissim molestie.",
      "imagePreview" : "https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/0d373b57e250525e2556015c5ad6fe84f66f2f632357a97c5de6e73043c0e0d51628682335902.jpg",
-     "isSelected": false
+     "isSelected": false,
+     "link": "https://www.linkedin.com"
    }
 ]

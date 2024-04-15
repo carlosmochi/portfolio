@@ -5,6 +5,7 @@
         </div>
         <div class="description_text">
             <a>{{ projectDescription }}</a>
+            <a class="page_link" :href="projectLink" target="_blank">{{ projectLink }}</a>
         </div>
     </div>
 </template>
@@ -16,6 +17,7 @@
     name: 'ProjectDescription',
     props:{
         projectDescription: String,
+        projectLink: String,
         projectImage: String,
     },
     });
